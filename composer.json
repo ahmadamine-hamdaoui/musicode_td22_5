@@ -1,0 +1,13 @@
+{
+    "name": "ahmad-amine/musicode",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ahmad-amine",
+            "email": "hamdaoui.ahmadamine@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
